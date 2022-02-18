@@ -1,0 +1,5 @@
+src/tests
+**/migrations/
+**/seeders/
+**/models/index.js
+src/test
