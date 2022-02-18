@@ -4,8 +4,8 @@ Neste projeto foi construida uma API RESTful utilizando a arquitetura MSC e usan
  - Criar e associar tabelas usando `models` do `sequelize`
  - Construir endpoints para consumir os models
  - Fazer um `CRUD` com o `ORM`
-A API também usa a tecnologia JWT para autenticação dos endpoints.
-Também está contenplado teste de integração cobrindo mais de 85% das linhas de código da aplicação.
+ - A API também usa a tecnologia JWT para autenticação dos endpoints.
+ - Também está contenplado teste de integração cobrindo mais de 85% das linhas de código da aplicação.
 
 # Endpoints e funcionalidades!
 
