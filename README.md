@@ -5,7 +5,7 @@ Neste projeto foi construida uma API RESTful utilizando a arquitetura MSC e usan
  - Construir endpoints para consumir os models
  - Fazer um `CRUD` com o `ORM`
  - A API também usa a tecnologia JWT para autenticação dos endpoints.
- - Também está contenplado teste de integração cobrindo mais de 85% das linhas de código da aplicação.
+ - Também está contemplado teste de integração cobrindo mais de 85% das linhas de código da aplicação.
 
 # Endpoints e funcionalidades!
 
